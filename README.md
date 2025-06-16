@@ -1,49 +1,62 @@
-## Me chamo Caio Somacal, sou desenvolvedor Full Stack e entusiasta em segurança da informação.
+# 👨🏻‍💻 Caio Somacal
 
-Sou um desenvolvedor full-stack que gosta de criar soluções do zero, unindo tecnologia, lógica e criatividade para transformar ideias em projetos funcionais.
+**`Desenvolvedor FullStack & entusiasta em segurança`**
 
-Gosto de participar de todas as etapas do desenvolvimento — desde o planejamento e estruturação da arquitetura até a implementação e entrega final.
+Me chamo Caio Somacal, sou de Curitiba/PR e atualmente curso Análise e Desenvolvimento de Sistemas na Universidade Positivo. Minha trajetória com tecnologia começou com infraestrutura, mas logo percebi minha paixão pelo desenvolvimento full stack e pela área de segurança da informação.
 
-Tenho um grande interesse por segurança da informação, construção de backends robustos e interfaces funcionais no frontend.
+Tenho um perfil curioso e gosto de entender como as coisas funcionam por trás do código — por isso, estudo tanto desenvolvimento quanto conceitos de cibersegurança e arquitetura de sistemas. 
 
-Atualmente curso Análise e Desenvolvimento de Sistemas na Universidade Positivo e busco sempre me aprimorar em tecnologias como:
-
-- Python, JavaScript, Java, C#, PHP, Go e Kotlin  
-- React, Node.js, REST APIs  
-- PostgreSQL, MySQL  
-- Boas práticas de arquitetura, OOP, Clean Code e Segurança
-
-Além do desenvolvimento, gosto de explorar vulnerabilidades, entender criptografia e criar soluções seguras para a web moderna.
+Atualmente, trabalho em projetos pessoais onde aplico boas práticas, organização de código, foco em performance e segurança, com o objetivo de desenvolver soluções que sejam escaláveis e bem estruturadas.
 
 ---
 
-## ⚙️ Tecnologias
+### ⚙️ Tecnologias que uso
 
 <div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="30" />
 </div>
 
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=caio-somacal&show_icons=true&theme=github_dark&hide_title=false)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caio-somacal&layout=compact&theme=github_dark)
+<br/>
 
 ---
 
-Vamos codar e crescer juntos 🚀  
-📫 Entre em contato: crsomacal@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/caio-somacal)
+### 📊 Estatísticas do GitHub
+
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    src="https://github-readme-stats.vercel.app/api?username=caio-somacal&show_icons=true&theme=tokyonight&locale=pt-br" 
+  />
+  
+  <img 
+    align="left" 
+    alt="Top Linguagens" 
+    height="200" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=caio-somacal&layout=compact&theme=tokyonight&custom_title=Linguagens%20mais%20usadas&langs_count=8" 
+  />
+</p>
+
+<br/>
+<br/>
+
+---
+
+### 📫 Como me encontrar:
+
+- Email: crsomacal@gmail.com
+- LinkedIn: [linkedin.com/in/caio-somacal](https://www.linkedin.com/in/caio-somacal)
+- Localização: Curitiba/PR - Brasil
