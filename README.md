@@ -1,10 +1,11 @@
 # 👋 Olá! Seja bem-vindo ao meu perfil no GitHub  
 ## Me chamo Caio Somacal, sou desenvolvedor Full Stack e entusiasta em segurança da informação.
 
-Sou um desenvolvedor full-stack independente que está construindo sua própria versão do mundo digital, passo a passo.
+Sou um desenvolvedor full-stack que gosta de criar soluções do zero, unindo tecnologia, lógica e criatividade para transformar ideias em projetos funcionais.
 
-Todos os meus projetos são feitos do zero — desde o planejamento e design, até a resolução de problemas reais com código.  
-Tenho um interesse especial por segurança, arquitetura de sistemas e experiências robustas, tanto no backend quanto no frontend.
+Gosto de participar de todas as etapas do desenvolvimento — desde o planejamento e estruturação da arquitetura até a implementação e entrega final.
+
+Tenho um grande interesse por segurança da informação, construção de backends robustos e interfaces funcionais no frontend.
 
 Atualmente curso Análise e Desenvolvimento de Sistemas na Universidade Positivo e busco sempre me aprimorar em tecnologias como:
 
