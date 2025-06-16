@@ -1,4 +1,3 @@
-# 👋 Olá! Seja bem-vindo ao meu perfil no GitHub  
 ## Me chamo Caio Somacal, sou desenvolvedor Full Stack e entusiasta em segurança da informação.
 
 Sou um desenvolvedor full-stack que gosta de criar soluções do zero, unindo tecnologia, lógica e criatividade para transformar ideias em projetos funcionais.
