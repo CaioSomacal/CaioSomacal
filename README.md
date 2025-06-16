@@ -46,7 +46,7 @@ Atualmente, trabalho em projetos pessoais onde aplico boas práticas, organizaç
     align="left" 
     alt="Top Linguagens" 
     height="200" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=caio-somacal&layout=compact&theme=tokyonight&custom_title=Linguagens%20mais%20usadas&langs_count=8" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Caiosomacal&layout=compact&theme=tokyonight&custom_title=Linguagens%20mais%20usadas&langs_count=8" 
   />
 </p>
 
@@ -58,5 +58,5 @@ Atualmente, trabalho em projetos pessoais onde aplico boas práticas, organizaç
 ### 📫 Como me encontrar:
 
 - Email: crsomacal@gmail.com
-- LinkedIn: [linkedin.com/in/caio-somacal](https://www.linkedin.com/in/caio-somacal)
+- LinkedIn: [linkedin.com/in/caio-somacal](https://www.linkedin.com/in/Caiosomacal)
 - Localização: Curitiba/PR - Brasil
