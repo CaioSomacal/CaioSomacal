@@ -39,7 +39,7 @@ Atualmente, trabalho em projetos pessoais onde aplico boas práticas, organizaç
     align="left" 
     alt="GitHub Stats" 
     height="200" 
-    src="https://github-readme-stats.vercel.app/api?username=caio-somacal&show_icons=true&theme=tokyonight&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=CaioSomacal&show_icons=true&theme=tokyonight&locale=pt-br" 
   />
   
   <img 
