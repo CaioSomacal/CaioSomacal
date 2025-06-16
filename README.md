@@ -1,32 +1,5 @@
 <div style="position: relative;">
-  <style>
-    .title {
-      font-size: 1.8rem;
-      font-weight: bold;
-      margin-bottom: 0.5rem;
-    }
-    .main-title {
-      font-size: 2.2rem;
-    }
-    .github-stats-container {
-      display: flex;
-      flex-direction: column;
-      align-items: flex-end;
-      position: absolute;
-      top: 20px;
-      right: 20px;
-    }
-    .github-stat {
-      margin-bottom: 10px;
-    }
-    @media (max-width: 768px) {
-      .github-stats-container {
-        position: static;
-        align-items: center;
-        margin-top: 20px;
-      }
-    }
-  </style>
+
 
   <h1 class="main-title">👨🏻‍💻 Caio Somacal</h1>
   <h2 class="title">Full Stack Developer & Security Enthusiast</h2>
