@@ -18,7 +18,7 @@ Hi! I'm Caio Somacal from Curitiba, Brazil 🇧🇷.
 
 I hold a degree in Systems Analysis and Development from Universidade Positivo and am currently pursuing a postgraduate specialization in Cybersecurity and Cyber Defense at UNINTER, expanding my expertise in software development, information security, and cyber defense.
 
-My primary focus is back-end development, where I build APIs, database-driven applications, and scalable server-side solutions. I also develop custom systems and resources for FiveM roleplay servers.
+My primary focus is back-end development, where I build APIs, database-driven applications, and scalable server-side solutions. I also develop custom systems and resources for FiveM servers.
 
 Alongside development, I actively study cybersecurity, with interests in digital forensics, incident response, network security, and secure software development.
 
@@ -67,8 +67,6 @@ Alongside development, I actively study cybersecurity, with interests in digital
 ### 🎮 FiveM Development
 
 * Custom RP Systems
-* Job Systems
-* Vehicle Systems
 * Server Integrations
 
 ### 🔐 Cybersecurity
