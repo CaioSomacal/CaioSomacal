@@ -16,7 +16,7 @@
 
 Hi! I'm Caio Somacal from Curitiba, Brazil 🇧🇷.
 
-I'm currently pursuing a degree in Systems Analysis and Development at Universidade Positivo.
+I'm currently pursuing a Bachelor's degree in Systems Analysis and Development at Universidade Positivo, while also completing a postgraduate specialization in Cybersecurity and Cyber Defense at UNINTER.
 
 My primary focus is back-end development, where I build APIs, database-driven applications, and scalable server-side solutions. I also develop custom systems and resources for FiveM roleplay servers.
 
